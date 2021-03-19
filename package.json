@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.12.13",
-    "@firebase/firestore": "^2.1.6",
+    "@firebase/firestore": "^2.1.7",
 
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
