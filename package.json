@@ -54,7 +54,7 @@
     "file-loader": "^6.2.0",
     "firebase": "^8.1.2",
     "file-loader": "^6.1.0",
-    "firebase": "^8.2.6",
+    "firebase": "^8.8.0",
     "lodash": "^4.17.21",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
